@@ -1,0 +1,16 @@
+{
+  "name": "6.stripping-names",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/node": "^20.11.27",
+    "D": "^1.0.0"
+  }
+}
